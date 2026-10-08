@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Awake</string>
+    <string name="tile_label">Awake</string>
+    <string name="tile_state_active">Attivo</string>
+    <string name="tile_state_inactive">Disattivato</string>
+    <string name="permission_required_toast">Awake richiede il permesso di modificare le impostazioni di sistema per funzionare su MIUI</string>
+</resources>
